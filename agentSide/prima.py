@@ -1,6 +1,7 @@
 import sympy
 import time
 
+#hello
 def cek_prima_sympy(n):
     """Mengecek bilangan prima menggunakan sympy"""
     return sympy.isprime(n)
